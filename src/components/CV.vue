@@ -52,7 +52,7 @@
             <li>
               <p>
                 <em>Développeur web:</em><br />
-                HTML, CSS, PHP, JavaScript, SQL, Python
+                HTML, CSS, PHP, JavaScript, SQL
               </p>
             </li>
             <li>
@@ -70,7 +70,6 @@
             <li>Curiosité</li>
             <li>Flexibilité</li>
             <li>Travail en équipe</li>
-            <li>Résolution de <br />problèmes complexes</li>
           </ul>
         </div>
         <div class="madskills">
