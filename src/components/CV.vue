@@ -52,7 +52,7 @@
             <li>
               <p>
                 <em>Développeur web:</em><br />
-                HTML, CSS, PHP, JavaScript, SQL
+                HTML, CSS, JS, PHP, Symfony, VueJS, SQL
               </p>
             </li>
             <li>
