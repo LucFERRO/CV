@@ -176,7 +176,7 @@
           <li>07 83 95 94 63</li>
           <li>luchenri.ferro@gmail.com</li>
         </ul>
-        <a id="button" title="Trop de lumière?" @click="Button()">
+        <a id="button" :title="!imgClicked ? 'Trop de lumière?' : 'Pas assez de lumière?'" @click="Button()">
           <img
             id="ON"
             :src="imgSrc"
